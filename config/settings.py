@@ -23,7 +23,7 @@ else:
 
 
 ALLOWED_HOSTS = env("ALLOWED_HOSTS").split(",")
-# ALLOWED_HOSTS = ['iskandar123456.pythonanywhere.com']
+ALLOWED_HOSTS = ['Iskandar12345.pythonanywhere.com']
 
 
 # Application definition
